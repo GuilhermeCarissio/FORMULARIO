@@ -1,5 +1,5 @@
 # FORMULARIO
-LINK DO PROJETO: formgbgc.netlify.app
+LINK DO PROJETO: https://formgbgc.netlify.app/
 
 ![Captura de Tela (28)](https://user-images.githubusercontent.com/79383274/212446239-c8fd0ffa-358e-430f-bb87-ed19e7fd4257.png)
 
